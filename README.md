@@ -5,6 +5,6 @@
 3. The Src folder contains all the required code for implementation.
 
 Clone the repo, open terminal inside the repositiry of pc and type
-    python <filename>.py or 
-    python3 <filename>.py
+    python filename.py or 
+    python3 filename.py
     
