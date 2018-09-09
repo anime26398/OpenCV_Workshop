@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-img = cv2.imread('lenna.jpg',cv2.IMREAD_COLOR)
+img = cv2.imread('../Data/lenna.jpg',cv2.IMREAD_COLOR)
 #px = img[55,55]
 #img[55,55] = [255,255,255]
 #px = img[55,55]
