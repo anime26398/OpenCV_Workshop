@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 
-img = cv2.imread('/home/aniruddha/Documents/Aries/Workshops/Workshop1_Image_Processing/Data/lenna.jpg',cv2.IMREAD_COLOR)
+img = cv2.imread('../Data/lenna.jpg',cv2.IMREAD_COLOR)
 
 cv2.line(img,(0,0),(200,300),(255,255,255),50)
 
